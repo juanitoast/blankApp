@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/Juanito/Desktop/blankApp/www/lib/ionic/js/ionic.min.js",
+        "/Users/Juanito/Desktop/blankApp/www/lib/ionic/js/ionic.js",
+        "/Users/Juanito/Desktop/blankApp/www/lib/ionic/js/ionic.bundle.min.js"
+    ]
+}

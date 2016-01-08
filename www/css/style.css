@@ -1,0 +1,25 @@
+/* Empty. Add your own CSS if you like */
+.star>.item-content{
+    background-color:#EEE8D6 !important;
+}
+
+
+.splash{
+    background:url(../img/skyline.jpg) no-repeat center 
+        center fixed;
+    -webkit-background-size:cover;    
+    -moz-backgound-size:cover;
+    -o-backgound-size:cover;
+    background-size: cover;
+    
+}
+
+.branding{
+    
+    width:50%;
+    max-width: 200px;
+    margin: 0 auto;
+    margin-top:20px;
+    text-align: center;
+    
+}
